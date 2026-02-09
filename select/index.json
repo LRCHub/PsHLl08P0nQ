@@ -1,0 +1,48 @@
+{
+  "version": 1,
+  "base_track": "キスをしよう",
+  "base_artist": "カネコアヤノ",
+  "createdAt": "2026-02-09T15:20:53.657301Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "キスをしよう",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/01_キスをしよう_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "キスをしよう",
+      "artist": "マカロニえんぴつ",
+      "has_synced": true,
+      "path": "select/02_キスをしよう_マカロニえんぴつ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "キスをしよう",
+      "artist": "PEDRO",
+      "has_synced": false,
+      "path": "select/03_キスをしよう_PEDRO.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "キスをしよう - Kisswosiyou",
+      "artist": "Macaroni Empitsu",
+      "has_synced": true,
+      "path": "select/04_キスをしよう_-_Kisswosiyou_Macaroni_Empitsu.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "キスをしよう",
+      "artist": "カネコアヤノ",
+      "has_synced": false,
+      "path": "select/pl_01_キスをしよう_カネコアヤノ.txt"
+    }
+  ]
+}
